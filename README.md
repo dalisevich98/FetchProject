@@ -1,5 +1,7 @@
 # FetchProject
 To run the code, execute the following commands:
+
+```sh
 mvn clean package
 mvn exec:java -Dexec.mainClass="ReceiptProcessorServer"
 
